@@ -12,3 +12,5 @@ These components are classified into two main groups: the first cohort aids in t
 - MPU Sensor
 - SD Card Module
 - Arduino Uno
+  
+![2](https://github.com/samanratna/kathsat-ku-aavishkar/assets/46080827/d13592eb-46f1-4460-b6d6-a47430c45725)
